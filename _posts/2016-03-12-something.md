@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Re-Logging Roof, Hessian Hut -- Dykman House, NY. NY'
-datePublished: '2016-03-12T21:33:08.687Z'
-dateModified: '2016-03-12T21:33:02.745Z'
+datePublished: '2016-03-12T21:40:23.699Z'
+dateModified: '2016-03-12T21:40:19.740Z'
 title: Hessian Hut
 author: []
 sourcePath: _posts/2016-03-12-something.md
@@ -22,12 +22,11 @@ url: something/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12f3c7bf-000a-471b-9533-e62160b2abae.jpg)
-
 Re-Logging Roof, Hessian Hut -- Dykman House, NY. NY
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bd466f3-b795-4c0f-9733-69a69ae16ca0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc6c1537-b945-4b81-8418-5cb9afdc3f64.jpg)
 
 The Hessian Hut is a recreation, built in 1915, based on the work of the amateur archaeologist Reginald Pelham Bolton. When we removed the existing cedar logs we found a layer of Alcoa aluminum... not likely to have been a building material available in the 18th century.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bd466f3-b795-4c0f-9733-69a69ae16ca0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41ac2937-59ed-4936-9f02-c7de86a83d7b.jpg)
 
 Working on the aluminum sheets.
@@ -43,7 +42,7 @@ Preparations.
 Re-logging.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfe9c3ca-36e6-4ce2-bb8d-fc573adb40bc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75a8eb33-7ae0-4bf5-8f95-b93a5476695b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56c0f2c0-13c8-4153-ad28-23576736b4d8.jpg)
 
 Finishing touches.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56c0f2c0-13c8-4153-ad28-23576736b4d8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5d958ec-c7d5-4389-bb2d-72db65bb2807.jpg)
